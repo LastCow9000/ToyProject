@@ -7,7 +7,7 @@ SHOWING_Class_Name = "showing";
 
 /* LocalStroage에 폼에 입력한 유저명 저장 */
 function saveName(userName) {
-  localStorage.setItem(userName);
+  localStorage.setItem(USER_Local_Storage, userName);
 }
 
 /* submit의 기본 이벤트를 막고 input에 입력된 값으로 
