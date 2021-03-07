@@ -2,18 +2,23 @@ body {
     background-color: darkgray;
 }
 
-.btn {
-    cursor: pointer;
-}
-
 h1 {
-    color: chocolate;
+    color: white;
     transition: color 0.5s ease-in-out;
+    font-size: 8em;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: auto;
 }
 
 .form,
 .greetings {
     display: none;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: auto;
+    margin-bottom: 15px;
 }
 
 .showing {
@@ -38,4 +43,28 @@ h1 {
     height: 100%;
     z-index: -1;
     animation: fadeIn 0.5s linear;
+}
+
+.toDoForm {
+    text-align: center;
+    margin-top: 0;
+}
+
+ul > li {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.weather {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.weatherDiv {
+    text-align: right;
+    margin-right: 2em;
 }
