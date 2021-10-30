@@ -1,6 +1,6 @@
 require('dotenv').config()
-// async err
-
+// async err (try, catch를 대신함)
+require('express-async-errors');
 
 const express = require('express');
 const app = express();
