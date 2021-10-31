@@ -2,130 +2,130 @@
   {
     "name": "accent chair",
     "price": 25,
-    "company": "marcos",
+    "company": "samsung",
     "rating": 4
   },
   {
     "name": "albany sectional",
     "price": 109,
-    "company": "liddy",
+    "company": "lg",
     "rating": 5
   },
   {
     "name": "albany table",
     "price": 309,
-    "company": "liddy",
+    "company": "lg",
     "rating": 4.9
   },
   {
     "name": "armchair",
     "price": 125,
-    "company": "marcos",
+    "company": "samsung",
     "rating": 4.8
   },
   {
     "name": "bar stool",
     "price": 40,
-    "company": "liddy",
+    "company": "lg",
     "rating": 4.6
   },
   {
     "name": "dining table",
     "price": 42,
-    "company": "ikea",
+    "company": "kakao",
     "rating": 4.55
   },
   {
     "name": "emperor bed",
     "price": 23,
-    "company": "ikea"
+    "company": "kakao"
   },
   {
     "name": "entertainment center",
     "price": 59,
     "featured": true,
-    "company": "caressa"
+    "company": "apple"
   },
   {
     "name": "high-back bench",
     "price": 39,
     "featured": true,
-    "company": "ikea"
+    "company": "kakao"
   },
 
   {
     "name": "leather sofa",
     "price": 99,
-    "company": "caressa"
+    "company": "apple"
   },
   {
     "name": "modern bookshelf",
     "price": 31,
     "featured": true,
-    "company": "caressa"
+    "company": "apple"
   },
   {
     "name": "modern poster",
     "price": 30,
-    "company": "liddy"
+    "company": "lg"
   },
   {
     "name": "shelf",
     "price": 30,
-    "company": "ikea"
+    "company": "kakao"
   },
   {
     "name": "simple chair",
     "price": 109,
-    "company": "liddy"
+    "company": "lg"
   },
   {
     "name": "sofa set",
     "price": 129,
-    "company": "marcos"
+    "company": "samsung"
   },
   {
     "name": "suede armchair",
     "price": 15,
-    "company": "caressa"
+    "company": "apple"
   },
   {
     "name": "utopia sofa",
     "price": 79,
     "featured": true,
-    "company": "liddy"
+    "company": "lg"
   },
   {
     "name": "vase table",
     "price": 120,
     "featured": true,
-    "company": "marcos"
+    "company": "samsung"
   },
   {
     "name": "wooden bed",
     "price": 25,
-    "company": "ikea"
+    "company": "kakao"
   },
   {
     "name": "wooden desk",
     "price": 15,
-    "company": "ikea"
+    "company": "kakao"
   },
   {
     "name": "wooden desk",
     "price": 40,
-    "company": "ikea"
+    "company": "kakao"
   },
   {
     "name": "wooden table",
     "price": 23,
     "featured": true,
-    "company": "caressa"
+    "company": "apple"
   },
   {
     "name": "a first wooden table",
     "price": 23,
     "featured": true,
-    "company": "caressa"
+    "company": "apple"
   }
 ]
